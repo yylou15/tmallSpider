@@ -9,3 +9,8 @@
 `requests`
 `csv`
 `re`
+
+
+*商品评论接口：
+  https://rate.tmall.com/list_detail_rate.htm
+*
