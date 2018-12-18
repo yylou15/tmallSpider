@@ -11,6 +11,6 @@
 `re`
 
 
-**商品评论接口：**
+**商品评论接口（需要登录，访问频率不能过快，不然会有验证punish）：**
 **https://rate.tmall.com/list_detail_rate.htm**
 
